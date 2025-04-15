@@ -32,11 +32,6 @@ Una aplicación web moderna que combina captura de fotos con herramientas de dib
 - Navegador moderno (Chrome 80+, Firefox 75+, Edge 80+, Safari 13.1+)
 - Acceso a la cámara (para funcionalidad completa)
 
-### Instalación local
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/ayudante-davinci.git
-
 # Enlace de la app
 - https://davincicam.netlify.app/
 
