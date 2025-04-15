@@ -1,6 +1,6 @@
 # 📷 Ayudante Da Vinci - Proyecto de Cámara con Dibujo
 
-Una aplicación web moderna que combina captura de fotos con herramientas de dibujo, inspirada en el espíritu creativo de Leonardo Da Vinci.
+Una aplicación web moderna que combina captura de fotos con herramientas de dibujo.
 
 ## 🌟 Características principales
 
