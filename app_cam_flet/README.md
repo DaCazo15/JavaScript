@@ -49,4 +49,32 @@ Pantalla inicial: Haz clic en "Comenzar"
 - Navegador moderno (Chrome 80+, Firefox 75+, Edge 80+, Safari 13.1+)
 - Acceso a la cámara (para funcionalidad completa)
 
+## 🌍 Compatibilidad
+### Probado en:
+
+✅ Chrome (Desktop y Android)
+
+✅ Firefox
+
+✅ Safari (iOS)
+
+✅ Edge
+
+## 🛑 Limitaciones conocidas
+- En iOS, el formato de descarga es siempre JPEG
+
+- El rendimiento de dibujo puede verse afectado en imágenes muy grandes
+
+- Requiere HTTPS para funcionar en algunos navegadores móviles
+
+## 🤝 Cómo contribuir
+- Haz fork del proyecto
+
+- Crea una rama (git checkout -b feature/nueva-funcionalidad)
+
+- Haz commit de tus cambios (git commit -am 'Añade nueva funcionalidad')
+
+- Haz push a la rama (git push origin feature/nueva-funcionalidad)
+
+- Abre un Pull Request
 
