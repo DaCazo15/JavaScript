@@ -1,10 +1,5 @@
 # 📷 Ayudante Da Vinci - Proyecto de Cámara con Dibujo
 
-![Captura de pantalla de la aplicación](assets/screenshot/init.png) <!-- Añade tu propia captura -->
-![Captura de pantalla de la aplicación](assets/screenshot/welcome.png) <!-- Añade tu propia captura -->
-![Captura de pantalla de la aplicación](assets/screenshot/camera mode.png) <!-- Añade tu propia captura -->
-![Captura de pantalla de la aplicación](assets/screenshot/edition mode.png) <!-- Añade tu propia captura -->
-
 Una aplicación web moderna que combina captura de fotos con herramientas de dibujo, inspirada en el espíritu creativo de Leonardo Da Vinci.
 
 ## 🌟 Características principales
@@ -23,6 +18,13 @@ Una aplicación web moderna que combina captura de fotos con herramientas de dib
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 - ![Canvas API](https://img.shields.io/badge/-Canvas_API-000000?logo=html5&logoColor=white)
 - ![MediaDevices API](https://img.shields.io/badge/-MediaDevices_API-000000?logo=webcomponents&logoColor=white)
+
+## Ilustraciones
+![Captura de pantalla de la aplicación](assets/screenshot/init.png) <!-- Añade tu propia captura -->
+![Captura de pantalla de la aplicación](assets/screenshot/welcome.png) <!-- Añade tu propia captura -->
+![Captura de pantalla de la aplicación](assets/screenshot/camera_mode.png) <!-- Añade tu propia captura -->
+![Captura de pantalla de la aplicación](assets/screenshot/edition_mode.png) <!-- Añade tu propia captura -->
+
 
 ## 🚀 Cómo empezar
 
