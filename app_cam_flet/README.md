@@ -25,13 +25,28 @@ Una aplicación web moderna que combina captura de fotos con herramientas de dib
 ![Captura de pantalla de la aplicación](assets/screenshot/camera_mode.png) <!-- Añade tu propia captura -->
 ![Captura de pantalla de la aplicación](assets/screenshot/edition_mode.png) <!-- Añade tu propia captura -->
 
+# Enlace de la app
+- https://davincicam.netlify.app/
 
-## 🚀 Cómo empezar
+## 🎨 Uso de la aplicación
+Pantalla inicial: Haz clic en "Comenzar"
+
+### Modo cámara:
+
+- Toca el botón de cámara para capturar foto
+
+### Modo edición:
+
+- Dibuja sobre tu foto con los colores disponibles
+
+### Usa los botones inferiores para:
+
+🔄 Volver a tomar foto
+
+⬇️ Descargar la imagen editada
 
 ### Prerrequisitos
 - Navegador moderno (Chrome 80+, Firefox 75+, Edge 80+, Safari 13.1+)
 - Acceso a la cámara (para funcionalidad completa)
 
-# Enlace de la app
-- https://davincicam.netlify.app/
 
